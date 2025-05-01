@@ -1,0 +1,23 @@
+/* comment */
+@import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap');
+body {
+	background-color: #ff7fca;
+#container{ width: 550px;
+	margin: 0 auto;
+
+}
+
+h1 {
+	color: White;
+	font-family: arial rounded mt bold, verdana;
+	border: 6px solid Red;
+	padding: 10px;
+	text-align: center;
+	border border-radius: 12px;
+
+}
+p{font-family: Tagesschrift}
+a{color:Red;
+
+}
+
