@@ -1,19 +1,21 @@
 /* comment */
-@import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap');	
 body {
-	background-color: #ff7fca;
+	color: #a16262;
+	background-color: #0e0c10;
 #container{ width: 550px;
 	margin: 0 auto;
 
 }
 
 h1 {
-	color: White;
+
+	color: darkred;
 	font-family: arial rounded mt bold, verdana;
-	border: 6px solid Red;
-	padding: 10px;
+	border: 12px solid black;
+	padding: 12px;
 	text-align: center;
-	border border-radius: 12px;
+	border border-radius: 23px;
 
 }
 p{font-family: Tagesschrift}
